@@ -15,4 +15,4 @@ N^{\Omega(
 )}
 $$
 
-Gaussian is much less expensive, asymptotically, but if you think that you have interesting interpolation between terms, you're going to have a shitty day.
+Gaussian is much less expensive, asymptotically, but if you think that you have interesting interpolation between points in your dataset, you're going to have a shitty day.
